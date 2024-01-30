@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\bin\Debug\Tipo de traingulo.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\bin\Debug\Tipo de traingulo.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\bin\Debug\Tipo de traingulo.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\obj\Debug\Tipo de traingulo.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\obj\Debug\Tipo de traingulo.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\obj\Debug\Tipo de traingulo.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de traingulo\obj\Debug\Tipo de traingulo.pdb
