@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\bin\Debug\Calcular velocidad.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\bin\Debug\Calcular velocidad.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\bin\Debug\Calcular velocidad.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\obj\Debug\Calcular velocidad.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\obj\Debug\Calcular velocidad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\obj\Debug\Calcular velocidad.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Calcular velocidad\obj\Debug\Calcular velocidad.pdb
