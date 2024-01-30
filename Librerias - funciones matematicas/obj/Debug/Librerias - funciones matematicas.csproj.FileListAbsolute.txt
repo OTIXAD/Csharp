@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\obj\Debug\Librerias - funciones matematicas.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\obj\Debug\Librerias - funciones matematicas.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\bin\Debug\Librerias - funciones matematicas.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\bin\Debug\Librerias - funciones matematicas.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\bin\Debug\Librerias - funciones matematicas.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\obj\Debug\Librerias - funciones matematicas.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Librerias - funciones matematicas\obj\Debug\Librerias - funciones matematicas.pdb
