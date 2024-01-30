@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\bin\Debug\Promedio.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\bin\Debug\Promedio.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\obj\Debug\Promedio.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Promedio\obj\Debug\Promedio.pdb
