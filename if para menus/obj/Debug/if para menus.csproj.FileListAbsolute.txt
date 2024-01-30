@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\bin\Debug\if para menus.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\bin\Debug\if para menus.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\bin\Debug\if para menus.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\obj\Debug\if para menus.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\obj\Debug\if para menus.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\obj\Debug\if para menus.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\if para menus\obj\Debug\if para menus.pdb
