@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\bin\Debug\area de figura.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\bin\Debug\area de figura.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\bin\Debug\area de figura.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\obj\Debug\area de figura.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\obj\Debug\area de figura.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\obj\Debug\area de figura.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\area de figura\obj\Debug\area de figura.pdb
