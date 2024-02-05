@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\bin\Debug\Convertidor de grados.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\bin\Debug\Convertidor de grados.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\bin\Debug\Convertidor de grados.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\obj\Debug\Convertidor de grados.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\obj\Debug\Convertidor de grados.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\obj\Debug\Convertidor de grados.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Convertidor de grados\obj\Debug\Convertidor de grados.pdb
