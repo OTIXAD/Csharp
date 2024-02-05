@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\bin\Debug\Tipo de empleado.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\bin\Debug\Tipo de empleado.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\bin\Debug\Tipo de empleado.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\obj\Debug\Tipo de empleado.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\obj\Debug\Tipo de empleado.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\obj\Debug\Tipo de empleado.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Tipo de empleado\obj\Debug\Tipo de empleado.pdb
