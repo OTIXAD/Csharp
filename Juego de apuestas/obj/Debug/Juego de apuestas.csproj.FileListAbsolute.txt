@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\bin\Debug\Juego de apuestas.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\bin\Debug\Juego de apuestas.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\bin\Debug\Juego de apuestas.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\obj\Debug\Juego de apuestas.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\obj\Debug\Juego de apuestas.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\obj\Debug\Juego de apuestas.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de apuestas\obj\Debug\Juego de apuestas.pdb
