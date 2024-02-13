@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\bin\Debug\Mascota virtual.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\bin\Debug\Mascota virtual.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\bin\Debug\Mascota virtual.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\obj\Debug\Mascota virtual.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\obj\Debug\Mascota virtual.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\obj\Debug\Mascota virtual.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Mascota virtual\obj\Debug\Mascota virtual.pdb
