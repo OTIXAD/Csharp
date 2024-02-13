@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\bin\Debug\serie de numeros.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\bin\Debug\serie de numeros.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\bin\Debug\serie de numeros.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\obj\Debug\serie de numeros.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\obj\Debug\serie de numeros.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\obj\Debug\serie de numeros.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\serie de numeros\obj\Debug\serie de numeros.pdb
