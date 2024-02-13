@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\bin\Debug\Serie de numeros del 300 al 100.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\bin\Debug\Serie de numeros del 300 al 100.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\bin\Debug\Serie de numeros del 300 al 100.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\obj\Debug\Serie de numeros del 300 al 100.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\obj\Debug\Serie de numeros del 300 al 100.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\obj\Debug\Serie de numeros del 300 al 100.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Serie de numeros del 300 al 100\obj\Debug\Serie de numeros del 300 al 100.pdb
