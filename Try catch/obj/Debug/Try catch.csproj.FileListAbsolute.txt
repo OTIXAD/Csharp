@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\bin\Debug\Try catch.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\bin\Debug\Try catch.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\bin\Debug\Try catch.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\obj\Debug\Try catch.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\obj\Debug\Try catch.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\obj\Debug\Try catch.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Try catch\obj\Debug\Try catch.pdb
