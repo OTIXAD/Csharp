@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\bin\Debug\Cine.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\bin\Debug\Cine.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\bin\Debug\Cine.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.Form1.resources
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Cine\obj\Debug\Cine.pdb
