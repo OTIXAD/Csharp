@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\bin\Debug\Juego de dados de 2 jugadores.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\bin\Debug\Juego de dados de 2 jugadores.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\bin\Debug\Juego de dados de 2 jugadores.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\obj\Debug\Juego de dados de 2 jugadores.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\obj\Debug\Juego de dados de 2 jugadores.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\obj\Debug\Juego de dados de 2 jugadores.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Juego de dados de 2 jugadores\obj\Debug\Juego de dados de 2 jugadores.pdb
