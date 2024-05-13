@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\bin\Debug\Array.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\bin\Debug\Array.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\bin\Debug\Array.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\obj\Debug\Array.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Array\obj\Debug\Array.pdb
