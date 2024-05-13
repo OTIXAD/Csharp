@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\bin\Debug\Form2.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\bin\Debug\Form2.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\bin\Debug\Form2.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.Form1.resources
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Form2\obj\Debug\Form2.pdb
