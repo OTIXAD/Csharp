@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\bin\Debug\Factorial de un numero.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\bin\Debug\Factorial de un numero.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\bin\Debug\Factorial de un numero.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\obj\Debug\Factorial de un numero.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\obj\Debug\Factorial de un numero.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\obj\Debug\Factorial de un numero.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Factorial de un numero\obj\Debug\Factorial de un numero.pdb
