@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\bin\Debug\Escuela.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\bin\Debug\Escuela.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\bin\Debug\Escuela.pdb
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\obj\Debug\Escuela.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\obj\Debug\Escuela.exe
+C:\Users\kevin\OneDrive\Escritorio\Programacion\C#\Escuela\obj\Debug\Escuela.pdb
